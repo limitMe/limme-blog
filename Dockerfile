@@ -5,4 +5,4 @@ COPY package.json .
 RUN npm install    
 COPY . .
 
-CMD [ "npx", "hexo", "sever" ]
+CMD [ "npx", "hexo", "server" ]
