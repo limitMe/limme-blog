@@ -27,7 +27,7 @@ qrcode: false
 
 about: 
   banner: http://file.muyutech.com/about.jpg
-  avatar: https://avatars2.githubusercontent.com/u/6457450?s=460&v=4
+  avatar: /blog/images/avatar.jpg
   description: "把力所能及领域的最好设想，呈现为现实"
   weibo_username: 1978258420
   github_username: limitMe
