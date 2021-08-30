@@ -1,0 +1,10 @@
+<aside class="catalog-container">
+  <div class="toc-main">
+    <strong class="toc-title">文章大纲</strong>
+    <% if (toc(page.content) !== ""){ %>
+      <%- toc(page.content, { "class": "toc-nav", "list_number": false }) %>
+    <% } else { %>
+      <ol class="nav"><%= __('这是一篇短文') %></ol>
+    <% } %>
+  </div>
+</aside>

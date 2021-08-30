@@ -1,0 +1,41 @@
+author: Desmond Zhong # 作者
+description: MYAI爱软
+keyword: limme, MYAI, limitMe, MYAIOL
+favicon: 
+
+excerpt_link: 阅读全文
+
+menu:
+ 主页: /
+ 标签: /tags/
+ 归档: /archives/
+# 项目: /project/
+ 关于: /about/
+
+# highlight
+highlight:
+  tomorrow
+
+# catalog
+catalog: true
+
+# donate
+donate: true
+
+# qrcode
+qrcode: false
+
+about: 
+  banner: /blog/images/banner.jpg
+  avatar: /blog/images/avatar.jpg
+  description: "把力所能及领域的最好设想，呈现为现实"
+  weibo_username: 1978258420
+  github_username: limitMe
+  zhihu_username: zhong-dian-121
+  linkedin_username: desmond-zhong-694745107
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: false
+  cdn: //cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML
